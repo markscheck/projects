@@ -1,1 +1,7 @@
 Todo-Programming
+Finish Git and Github, Nephology Unix WorkBench Coursera
+Start the bash tutorial in Unix WorkBench Coursera
+Finish Git tutorial on udacity 
+Finish the Android tutorial on udacity 
+
+
