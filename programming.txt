@@ -1,7 +1,10 @@
 Todo-Programming
 Finish Git and Github, Nephology Unix WorkBench Coursera
 Start the bash tutorial in Unix WorkBench Coursera
+Finish the Ruby tutorial Pragamatic Ruby 
 Finish Git tutorial on udacity 
 Finish the Android tutorial on udacity 
+Finish Rails for Zombies
+Finish Ruby tutorial todo 
 
 
