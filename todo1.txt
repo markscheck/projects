@@ -1,2 +1,7 @@
 Todo-List-Repo
-It is going to be a bad day
+<<<<<<< HEAD
+It is going to be a good day
+||||||| merged common ancestors
+=======
+It is going to be a good day
+>>>>>>> programming-tasks
